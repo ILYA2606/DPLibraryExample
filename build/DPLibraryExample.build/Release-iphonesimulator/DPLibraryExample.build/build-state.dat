@@ -1,0 +1,111 @@
+TDPLibraryExample
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.pth DPLibraryExample/DPLibraryExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.o /Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/libDPLibraryExample.a normal i386
+cPBXCp DPLibraryExample/DPLibraryExample.h build/Release-iphonesimulator/include/DPLibraryExample/DPLibraryExample.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051C3FD510000000000000110
+t1371798865
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005108BA7C00000000003DDFA0
+t1359526524
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005108BA7C00000000000015F7
+t1359526524
+s5623
+
+N/Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample-Prefix.pch
+c00000000522DAE7B00000000000000AD
+t1378725499
+s173
+i<Foundation/Foundation.h>
+
+N/Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.h
+c00000000522DAEEC0000000000000101
+t1378725612
+s257
+
+N/Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.m
+c00000000522DAF1F0000000000000111
+t1378725663
+s273
+
+N/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.LinkFileList
+c00000000522F12C700000000000000A2
+t1378816711
+s162
+
+N/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.o
+t2
+s0
+
+N/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/include/DPLibraryExample/DPLibraryExample.h
+t2
+s0
+
+N/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/libDPLibraryExample.a
+t2
+s0
+
+N/var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies05329f474adfb741^8c9fa2474adfb741^---0#1#0#--18"Check dependencies36"3AB9F677-6DF9-4B2A-B993-FA65F759478D-
+
+CCompileC build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.o /Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400509511.817094
+e400509511.912318
+r1
+xCompileC
+xbuild/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.o
+x/Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.ma38fd1474adfb741^a69ae9474adfb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.m0000000000000000^4516"CompileC build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.o DPLibraryExample/DPLibraryExample.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/u_10a24/Documents/TEST/DPLibraryExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-generated-files.hmap -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-own-target-headers.hmap -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-all-target-headers.hmap -iquote /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-project-headers.hmap -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DerivedSources/i386 -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DerivedSources -F/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator -include /var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch -MMD -MT dependencies -MF /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.d --serialize-diagnostics /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.dia -c /Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.m -o /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.o36"DC48B0FC-FDEF-4357-91AF-1588AC8AA543-
+
+CLibtool /Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/libDPLibraryExample.a normal i386
+s400509511.919712
+e400509511.929951
+r1
+xLibtool
+x/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/libDPLibraryExample.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Libtool build/Release-iphonesimulator/libDPLibraryExample.a normal i386dae1eb474adfb741^b422ee474adfb741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1689"Libtool build/Release-iphonesimulator/libDPLibraryExample.a normal i386    cd /Users/u_10a24/Documents/TEST/DPLibraryExample    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator -filelist /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/Objects-normal/i386/DPLibraryExample.LinkFileList -ObjC -framework Foundation -o /Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/libDPLibraryExample.a36"11048766-5F27-4F16-BD0A-6B2F713810CD-
+
+CPBXCp DPLibraryExample/DPLibraryExample.h build/Release-iphonesimulator/include/DPLibraryExample/DPLibraryExample.h
+s400509511.937884
+e400509511.941897
+r1
+xPBXCp
+xDPLibraryExample/DPLibraryExample.h
+xbuild/Release-iphonesimulator/include/DPLibraryExample/DPLibraryExample.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy build/Release-iphonesimulator/include/DPLibraryExample/DPLibraryExample.h5873f0474adfb741^2920f1474adfb741^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/include/DPLibraryExample/DPLibraryExample.h000000000080d041^1471"PBXCp DPLibraryExample/DPLibraryExample.h build/Release-iphonesimulator/include/DPLibraryExample/DPLibraryExample.h    cd /Users/u_10a24/Documents/TEST/DPLibraryExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample.h /Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/include/DPLibraryExample36"009AF8BC-E060-4120-A61B-445EB32E6DE3-
+
+CProcessPCH /var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.pth DPLibraryExample/DPLibraryExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400509511.638392
+e400509511.810201
+r1
+xProcessPCH
+x/var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.pth
+xDPLibraryExample/DPLibraryExample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile DPLibraryExample/DPLibraryExample-Prefix.pch4ed3a3474adfb741^be68cf474adfb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample-Prefix.pch0000000000000000^4470"ProcessPCH /var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.pth DPLibraryExample/DPLibraryExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/u_10a24/Documents/TEST/DPLibraryExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-generated-files.hmap -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-own-target-headers.hmap -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-all-target-headers.hmap -iquote /Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DPLibraryExample-project-headers.hmap -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DerivedSources/i386 -I/Users/u_10a24/Documents/TEST/DPLibraryExample/build/DPLibraryExample.build/Release-iphonesimulator/DPLibraryExample.build/DerivedSources -F/Users/u_10a24/Documents/TEST/DPLibraryExample/build/Release-iphonesimulator --serialize-diagnostics /var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.dia -c /Users/u_10a24/Documents/TEST/DPLibraryExample/DPLibraryExample/DPLibraryExample-Prefix.pch -o /var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zp/2wxs6_rx1fv_b7l06dlh39p40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DPLibraryExample-Prefix-fpbafkyovzeesbbjxzoysldpxpxt/DPLibraryExample-Prefix.pch.d36"0A33F687-F5DD-4472-91E2-3A9FC9450B5C-
+
